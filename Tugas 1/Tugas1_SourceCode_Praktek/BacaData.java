@@ -1,5 +1,5 @@
-//Nama                  : Muh. Hamdan Syarif
-//NIM                   : 13020240240
+//Nama                  : Muhammad Adrian
+//NIM                   : 13020240262
 //Hari,Tanggal, Waktu   : Jum'at/ 2 April 2026/ 20.00
 
 import java.util.Scanner;
