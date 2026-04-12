@@ -1,6 +1,6 @@
 /* NIM   : 13020240269
 Nama  : Muhammad Adrian
-Hari/Tanggal : 11 April 2026
+Hari/Tanggal : 12 April 2026
 Waktu : 20:00 */
 
 public class ForEver {
