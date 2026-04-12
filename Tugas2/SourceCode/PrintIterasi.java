@@ -1,7 +1,7 @@
-/* NIM   : 13020240269
-Nama  : Leon Octa Pratama
-Hari/Tanggal : 11 April 2026
-Waktu : 13:00*/
+/* NIM   : 13020240262
+Nama  : Muhammad Adrian
+Hari/Tanggal : 12 April 2026
+Waktu : 20:00*/
 
 import java.util.Scanner; 
  
