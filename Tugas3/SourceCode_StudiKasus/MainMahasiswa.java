@@ -1,3 +1,8 @@
+/* NIM   : 13020240262
+Nama  : Muhammad Adrian
+Hari/Tanggal : 18 April 2026
+Waktu : 21:00 */
+
 package mahasiswa;
 import java.util.Scanner;
 
